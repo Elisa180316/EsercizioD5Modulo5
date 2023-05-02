@@ -1,0 +1,11 @@
+.book-card {
+    height: 400px;
+    object-fit: cover;
+   
+}
+
+#root > div> div > div.my-5.container > div > div > div {
+    background-color: rgb(241, 235, 235);
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}

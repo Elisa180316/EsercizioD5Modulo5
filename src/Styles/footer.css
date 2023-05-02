@@ -1,0 +1,13 @@
+.footer {
+  background-color: black;
+}
+
+#root > div.footer.container > div > div > ul > li > a {
+  text-decoration: none;
+  color: white;
+}
+
+li {
+  list-style: none;
+  color: white;
+}
